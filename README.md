@@ -7,9 +7,14 @@
 I am a Computer Science student with a strong passion for building innovative digital solutions that solve real-world problems. My interests lie in software development, web applications, healthcare technology, and system design, where I enjoy creating user-centered platforms that improve efficiency and accessibility. I am particularly motivated by challenges that require combining technology, creativity, and problem-solving to develop impactful solutions that make a difference in people's lives.
 .
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:**
+I am currently developing **Health Mate**, a virtual healthcare platform designed to connect patients with doctors and nurses through online consultations, appointment scheduling, electronic prescriptions, and integrated pharmacy services. The project focuses on improving access to healthcare through technology while providing a secure and user-friendly experience for both patients and healthcare professionals.
+
+🌱 **Learning & Exploration:**
+I am actively exploring **Web Application Development**, **Database Management Systems**, **Software Engineering**, and **Cybersecurity** concepts. My current technical stack includes **HTML, CSS, Bootstrap, JavaScript, PHP, Python, and MySQL**, and I am continuously improving my skills in system design, backend development, and database optimization.
+
+⚡ **Core Interests:**
+My primary interests include **Software Development**, **Health Technology (HealthTech)**, **Web Applications**, **Cybersecurity**, **Artificial Intelligence**, and **Database Systems**. I am particularly interested in building scalable digital solutions that address real-world challenges and enhance the way people access essential services.
 
 ---
 
@@ -28,12 +33,12 @@ I am a Computer Science student with a strong passion for building innovative di
 ## GitHub Stats
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
-  <p align="center">
+  <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
