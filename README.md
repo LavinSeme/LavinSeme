@@ -34,15 +34,14 @@ My primary interests include **Software Development**, **Health Technology (Heal
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LavinSeme-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LavinSeme&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavinSeme-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-
-  <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavinSeme-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavinSeme&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavinSeme&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 ---
 
 ## Connect With Me
